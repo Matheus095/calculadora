@@ -1,0 +1,5 @@
+#calculadora python
+
+calculo= input("Digite o cálculo que voce deseja: ")
+resultado = eval(calculo)
+print("O resultado é", resultado)
